@@ -1,4 +1,4 @@
-his project predicts whether a customer is likely to leave a telecom company and creates simple retention emails for customers who are at risk.
+This project predicts whether a customer is likely to leave a telecom company and creates simple retention emails for customers who are at risk.
 What the Project Does
 Loads customer data from CSV files
 Explores and cleans the data
